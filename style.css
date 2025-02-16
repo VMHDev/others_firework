@@ -5,3 +5,7 @@ canvas {
 .block-audio {
   display: none;
 }
+
+.body-style {
+  marign: 0px;
+}
